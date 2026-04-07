@@ -1,0 +1,17 @@
+{
+  "name": "nscx56wn-module-c",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Node.js content site for the National Skills Competition backend module.",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "cheerio": "^1.1.2"
+  }
+}

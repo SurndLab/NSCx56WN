@@ -1,0 +1,14 @@
+---
+title: Nangang Design Week
+tags: design, culture, taipei
+summary: A sample TXT page with paragraph, image, and quote rendering.
+author: Editorial Desk
+cover: design-week-cover.svg
+---
+Design Week brings independent studios, product teams, and visual designers together in one exhibition hall.
+design-week-stage.svg
+[quote]
+Design should feel navigable before it feels decorative.
+That principle shaped both the exhibition map and the visitor journey.
+[/quote]
+Talk sessions run throughout the day and every stage is positioned near rest areas and food service points.

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Design Week Stage</title>
+  <desc id="desc">Illustrated stage scene for the design week article.</desc>
+  <rect width="1200" height="675" fill="#efe4d0" />
+  <rect x="80" y="390" width="1040" height="160" rx="24" fill="#0b5d57" />
+  <rect x="120" y="210" width="960" height="150" rx="24" fill="#ffffff" stroke="#16241c" stroke-width="10" />
+  <circle cx="240" cy="285" r="58" fill="#d98f2b" />
+  <circle cx="960" cy="285" r="58" fill="#d98f2b" />
+  <text x="360" y="300" fill="#16241c" font-size="54" font-family="IBM Plex Sans, Arial, sans-serif">Open Talks • Studio Reviews • Workshops</text>
+</svg>

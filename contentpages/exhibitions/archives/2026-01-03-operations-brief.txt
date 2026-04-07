@@ -1,0 +1,9 @@
+---
+tags: operations, logistics
+summary: A nested page used to verify recursive folder routing and fallback title extraction.
+draft: false
+cover: operations-brief.svg
+---
+This archive page documents the opening sequence for a daily exhibition run.
+operations-brief.svg
+Teams complete signage checks, safety walkthroughs, and visitor flow reviews before doors open.
