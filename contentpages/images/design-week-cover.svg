@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Design Week Cover</title>
+  <desc id="desc">Graphic poster style cover image for Nangang Design Week.</desc>
+  <rect width="1200" height="675" fill="#f4dfc1" />
+  <rect x="70" y="70" width="1060" height="535" rx="44" fill="#16241c" />
+  <circle cx="260" cy="320" r="165" fill="#d98f2b" />
+  <rect x="470" y="160" width="480" height="68" rx="18" fill="#0b5d57" />
+  <rect x="470" y="262" width="380" height="40" rx="12" fill="#d7ebe5" />
+  <rect x="470" y="332" width="300" height="40" rx="12" fill="#d7ebe5" />
+  <text x="470" y="470" fill="#f5f1e6" font-size="62" font-family="IBM Plex Sans, Arial, sans-serif">NANGANG</text>
+  <text x="470" y="540" fill="#f5f1e6" font-size="62" font-family="IBM Plex Sans, Arial, sans-serif">DESIGN WEEK</text>
+</svg>

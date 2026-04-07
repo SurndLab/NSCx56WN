@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Operations Brief</title>
+  <desc id="desc">Simple logistics themed illustration for archive content.</desc>
+  <rect width="1200" height="675" fill="#d7ebe5" />
+  <rect x="120" y="120" width="960" height="435" rx="36" fill="#ffffff" stroke="#0b5d57" stroke-width="14" />
+  <rect x="190" y="210" width="370" height="34" rx="10" fill="#16241c" opacity="0.9" />
+  <rect x="190" y="280" width="600" height="26" rx="10" fill="#16241c" opacity="0.35" />
+  <rect x="190" y="334" width="540" height="26" rx="10" fill="#16241c" opacity="0.35" />
+  <rect x="190" y="388" width="500" height="26" rx="10" fill="#16241c" opacity="0.35" />
+  <circle cx="910" cy="336" r="120" fill="#d98f2b" opacity="0.85" />
+  <text x="190" y="185" fill="#0b5d57" font-size="42" font-family="IBM Plex Sans, Arial, sans-serif">Operations Brief</text>
+</svg>

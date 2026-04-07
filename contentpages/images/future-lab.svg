@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Future Lab</title>
+  <desc id="desc">Abstract exhibition placeholder image with teal and amber shapes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b5d57" />
+      <stop offset="100%" stop-color="#d98f2b" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)" />
+  <circle cx="270" cy="180" r="120" fill="rgba(255,255,255,0.18)" />
+  <circle cx="920" cy="250" r="190" fill="rgba(255,255,255,0.16)" />
+  <rect x="120" y="420" width="960" height="110" rx="28" fill="rgba(255,255,255,0.16)" />
+  <text x="90" y="110" fill="#ffffff" font-size="56" font-family="IBM Plex Sans, Arial, sans-serif">Nangang Future Lab</text>
+  <text x="90" y="165" fill="#f7ead8" font-size="26" font-family="IBM Plex Sans, Arial, sans-serif">Research showcases, demos, and open-format exhibition zones</text>
+</svg>
