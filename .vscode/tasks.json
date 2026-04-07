@@ -1,0 +1,27 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Start Module C Dev Server",
+			"type": "shell",
+			"command": "zsh",
+			"args": [
+				"-lc",
+				"pkill -f '${workspaceFolder}/src/server.js' >/dev/null 2>&1 || true; npm run dev"
+			],
+			"options": {
+				"cwd": "${workspaceFolder}"
+			},
+			"isBackground": true,
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"presentation": {
+				"reveal": "always",
+				"panel": "dedicated",
+				"clear": false
+			}
+		}
+	]
+}
